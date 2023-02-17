@@ -54,6 +54,21 @@ Output Transaction
     "input": "XXXXXXXXXXXXXXXXXXXX"     #Bytecode
 }
 
+-----------------------------------------------------------------------------------------------
+Events Output
+
+{
+"event":"Transfer",
+"address":"0x3cFea208B4C5XXXXXXXXXXXb554463029288d",
+"arguments":       
+    {
+      "from":"0x0XXXXXXXXXXXXXXXXXXXXX00000",
+      "to":"0x721200adXXXXXXXXXXXXXXXXXc823302a6a3c28c81",
+      "value":"XXXXXXXXXXXXXXXXXXX"  #hash Value
+     },
+"timestamp":1676xxxxxxx0,
+"blockNumber":"x,xxx,xxx"
+}
 
 
 
