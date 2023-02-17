@@ -1,4 +1,4 @@
-# FLZCC
+# FLZCC - FlizzyCash Coin
 A Cryptocurrency Token
 
 
