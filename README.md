@@ -69,7 +69,23 @@ Events Output
 "timestamp":1676xxxxxxx0,
 "blockNumber":"x,xxx,xxx"
 }
-
+{
+    "eventId": "036d3150xxxxxxxxxxxe1970535d",
+    "event": "Transfer",
+    "eventArguments": null,
+    "contract": "0xEb6e0883c3xxxxxxxxxxxxxxxF4Fa891421Af3c",
+    "contractName": "FLZCC",
+    "arguments": {
+        "from": "0x00000xxxxxxxxxxxxxxxx000",
+        "to": "0x7212xxxxxxxxxxxxxxxxxxxxx2a6a3c28c81",
+        "value": "0x693xxxxxxxxxxxxxxxx185c00000" #hash Value
+    },
+    "timestamp": xxxxxxxxxx,
+    "blockNumber": "x,xxx,xxx",
+    "data": null,
+    "created": "xxxx/xx/xx xx:xx:xx -xx:xx",
+    "transaction": "0x564e9eaf8xxxxxxxxxxxxxxxxxxxxxx9691136686daff"
+}
 
 
 -----------------------------------------------------------------------------------------------
