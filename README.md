@@ -1,4 +1,4 @@
-# FLZZC
+# FLZCC
 A Cryptocurrency Token
 
 
